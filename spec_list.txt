@@ -1,0 +1,3 @@
+mkdir 509072010/spec
+cp 509072010/fit/ae509072010_3xi_xspec.fit_3xi.xcm.gif 509072010/spec/ae509072010_spec_r1r_img.gif
+cp 509072010/fit/fit_3xi.xcm 509072010/spec/ae509072010_spec_r1r.xcm

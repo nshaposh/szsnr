@@ -1,0 +1,2 @@
+MAIN_ID RA DEC RA_PREC DEC_PREC COO_ERR_MAJA COO_ERR_MINA COO_ERR_ANGLE COO_QUAL COO_WAVELENGTH COO_BIBCODE distance_distance distance_Q distance_unit distance_merr distance_perr distance_method distance_bibcode
+"b'NAME LMC'" "05 23 34.6" "-69 45 22" 5 5 "" "" 0 D O b'2003A&A...412...45P' 0.050 "" Mpc -0.060 0.060 "" 2013AJ....146...86T
